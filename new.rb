@@ -1,2 +1,0 @@
-system 'aplay Simpsons.wav'
-
